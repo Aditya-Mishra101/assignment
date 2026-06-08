@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import SearchBar        from '../components/SearchBar';
 import LoadingState     from '../components/LoadingState';
 import ErrorState       from '../components/ErrorState';
-import ResultsContainer from '../components/ResultsContainer';
+import ResultsContainer from '../components/ResultContainer';
 import BookModal        from '../components/BookModal';
 
 import { searchBooks, fetchBookDetail, fetchSimilarBooks } from '../utils/api';
@@ -58,7 +58,7 @@ export default function Home() {
     <div className="app-wrapper">
 
       <header className="app-header">
-        <h1>📚 Book Search</h1>
+        <h1>Book Search</h1>
         <Link to="/about" className="nav-link">About</Link>
       </header>
 
