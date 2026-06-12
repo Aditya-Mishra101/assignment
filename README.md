@@ -1,16 +1,13 @@
-# React + Vite
+# API Assignment (8th June)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Completed today's assignment:
+- Fetched and displayed data from a public api using JS and react.
+- Wrote user stories and about section for it.
 
-Currently, two official plugins are available:
+# API DOCS : 
+[BIG BOOKS](https://bigbookapi.com/docs/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Deployed Link:
+[Check this out](https://superlative-lokum-d02d37.netlify.app/)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Deployed Using Netlify.
